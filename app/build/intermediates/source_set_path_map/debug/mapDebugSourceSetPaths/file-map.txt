@@ -1,0 +1,58 @@
+com.example.taskmanager.app-ui-unit-release-0 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\0f7181d889b64542e835c6318686cb25\transformed\ui-unit-release\res
+com.example.taskmanager.app-lifecycle-runtime-release-1 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\1c76da40d9c1a2f911db5f6d8b375775\transformed\lifecycle-runtime-release\res
+com.example.taskmanager.app-room-ktx-2.6.1-2 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\22b701a961737404a0be7cc24de1e646\transformed\room-ktx-2.6.1\res
+com.example.taskmanager.app-ui-tooling-preview-release-3 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\23e3c71742845a833125b2c55eea8437\transformed\ui-tooling-preview-release\res
+com.example.taskmanager.app-core-ktx-1.15.0-4 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\24b3fc443a3289311f14beb5617c5542\transformed\core-ktx-1.15.0\res
+com.example.taskmanager.app-lifecycle-runtime-ktx-release-5 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\29f7fd8e7d7e4e1b028896942a57065f\transformed\lifecycle-runtime-ktx-release\res
+com.example.taskmanager.app-savedstate-ktx-1.2.1-6 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\3041019623efcdf110954c18f2ba0242\transformed\savedstate-ktx-1.2.1\res
+com.example.taskmanager.app-datastore-preferences-1.0.0-7 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\32ea4f7e1f421cfd9bad601deb752d5e\transformed\datastore-preferences-1.0.0\res
+com.example.taskmanager.app-runtime-release-8 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\368db9f78b474c14d3edaaa82fc0d65c\transformed\runtime-release\res
+com.example.taskmanager.app-ui-text-release-9 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\3b174cdcebf87007ddff5953bd4f98a8\transformed\ui-text-release\res
+com.example.taskmanager.app-room-runtime-2.6.1-10 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\403260d1f7b293d46286456e3cd93d51\transformed\room-runtime-2.6.1\res
+com.example.taskmanager.app-customview-poolingcontainer-1.0.0-11 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\40dc3c3eb76f10c7414b5a06c60768d7\transformed\customview-poolingcontainer-1.0.0\res
+com.example.taskmanager.app-animation-core-release-12 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\4118cc3882b6b98659be138c67dac9d5\transformed\animation-core-release\res
+com.example.taskmanager.app-sqlite-2.4.0-13 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\42379a3d7f6becdd1971d1e6a9aad426\transformed\sqlite-2.4.0\res
+com.example.taskmanager.app-material3-release-14 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\4498be248c3b928544a5d3e64ee67cdb\transformed\material3-release\res
+com.example.taskmanager.app-material-release-15 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\461c6d55733294d58e2c905fa949119d\transformed\material-release\res
+com.example.taskmanager.app-activity-1.9.3-16 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\475f17971b20b8cd8b6aa34325483224\transformed\activity-1.9.3\res
+com.example.taskmanager.app-sqlite-framework-2.4.0-17 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\4879935524761525b164e3d855ed2d20\transformed\sqlite-framework-2.4.0\res
+com.example.taskmanager.app-material-icons-core-release-18 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\4c7b12dfdc78621aba4c93b6b1db5e0b\transformed\material-icons-core-release\res
+com.example.taskmanager.app-ui-geometry-release-19 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\4feca72ea1253c4bdcee15f40557ca3c\transformed\ui-geometry-release\res
+com.example.taskmanager.app-activity-compose-1.9.3-20 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\5557a242a116cdf13889e6ab198f7ff2\transformed\activity-compose-1.9.3\res
+com.example.taskmanager.app-ui-tooling-data-release-21 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\572743d38eb06bbac27b603c24e31e51\transformed\ui-tooling-data-release\res
+com.example.taskmanager.app-foundation-layout-release-22 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\5c9967863f85e666906cf8b44d97a760\transformed\foundation-layout-release\res
+com.example.taskmanager.app-lifecycle-viewmodel-compose-release-23 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\5fc1da6a264d82ebfd6eb71cced4e9e0\transformed\lifecycle-viewmodel-compose-release\res
+com.example.taskmanager.app-lifecycle-viewmodel-savedstate-2.8.7-24 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\6077a6ecfc351218e60b8a91db9353de\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.example.taskmanager.app-material-ripple-release-25 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\7397996f2fc55b6e0e8ef8009a55202a\transformed\material-ripple-release\res
+com.example.taskmanager.app-lifecycle-process-2.8.7-26 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\7840cf64cf813b432c1ab19e5faef67d\transformed\lifecycle-process-2.8.7\res
+com.example.taskmanager.app-activity-ktx-1.9.3-27 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\80e443d45c02cd71b9a576481ee76787\transformed\activity-ktx-1.9.3\res
+com.example.taskmanager.app-ui-test-manifest-1.7.6-28 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\846e43aae6cd1d7454bb51bc8c1d6f7d\transformed\ui-test-manifest-1.7.6\res
+com.example.taskmanager.app-runtime-saveable-release-29 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\9203993ff2c1b2c7e1093e5f5af59a84\transformed\runtime-saveable-release\res
+com.example.taskmanager.app-savedstate-1.2.1-30 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\9e6ba4b75e976bbb7d61d8747b37449f\transformed\savedstate-1.2.1\res
+com.example.taskmanager.app-tracing-1.2.0-31 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\a7316b12066c45aaedf0bcaf30366bec\transformed\tracing-1.2.0\res
+com.example.taskmanager.app-ui-release-32 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\a75fbb0b242d67574bff06f62862bf57\transformed\ui-release\res
+com.example.taskmanager.app-animation-release-33 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\a83722c8785232846ff893927566e626\transformed\animation-release\res
+com.example.taskmanager.app-foundation-release-34 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\b0838de48e4555a606b006e960412975\transformed\foundation-release\res
+com.example.taskmanager.app-ui-graphics-release-35 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\b2556ecd6f4ac2505101a9d3db53a8a7\transformed\ui-graphics-release\res
+com.example.taskmanager.app-profileinstaller-1.3.1-36 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\b82e06cf090c4f9b40144c8dde04db3b\transformed\profileinstaller-1.3.1\res
+com.example.taskmanager.app-lifecycle-viewmodel-ktx-2.8.7-37 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\c554b4949dee9a99110f8866fc3a5149\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.example.taskmanager.app-lifecycle-runtime-compose-release-38 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\ccd8eba549beef5f272e95a5e1701688\transformed\lifecycle-runtime-compose-release\res
+com.example.taskmanager.app-graphics-path-1.0.1-39 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\cdf110143035c9b3331cfc488fa3e76f\transformed\graphics-path-1.0.1\res
+com.example.taskmanager.app-material-icons-extended-release-40 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\dd1c4bcd51c905c22468873c693e0956\transformed\material-icons-extended-release\res
+com.example.taskmanager.app-ui-tooling-release-41 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\dd56a3d185015a0f8609a057960fafa0\transformed\ui-tooling-release\res
+com.example.taskmanager.app-core-runtime-2.2.0-42 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\e6758b808f1c4d3274e73ffdcbe0a462\transformed\core-runtime-2.2.0\res
+com.example.taskmanager.app-ui-util-release-43 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\eafcc79aee42ea7fc1d153dab4755dac\transformed\ui-util-release\res
+com.example.taskmanager.app-startup-runtime-1.1.1-44 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\eb64653bc4d7da2df9c08843f9c15c2e\transformed\startup-runtime-1.1.1\res
+com.example.taskmanager.app-datastore-1.0.0-45 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\ec092d7d2d8e8bc44fa24be5c4c34a54\transformed\datastore-1.0.0\res
+com.example.taskmanager.app-lifecycle-viewmodel-release-46 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\f0a3867a10955285f513d36d5a943e29\transformed\lifecycle-viewmodel-release\res
+com.example.taskmanager.app-lifecycle-livedata-core-2.8.7-47 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\f357433a8419cdbe34be7e3d18defd09\transformed\lifecycle-livedata-core-2.8.7\res
+com.example.taskmanager.app-emoji2-1.3.0-48 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\f44aa1a401ba66c48651bc1ef1bf925a\transformed\emoji2-1.3.0\res
+com.example.taskmanager.app-annotation-experimental-1.4.1-49 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\fad8271f642574c78ca19bc86f1046b6\transformed\annotation-experimental-1.4.1\res
+com.example.taskmanager.app-core-1.15.0-50 C:\Users\yogendra singh\.gradle\caches\8.13\transforms\fd917ebf056d6cef8e8a7e0768305848\transformed\core-1.15.0\res
+com.example.taskmanager.app-pngs-51 D:\kotlin\TaskManager\app\build\generated\res\pngs\debug
+com.example.taskmanager.app-resValues-52 D:\kotlin\TaskManager\app\build\generated\res\resValues\debug
+com.example.taskmanager.app-packageDebugResources-53 D:\kotlin\TaskManager\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.taskmanager.app-packageDebugResources-54 D:\kotlin\TaskManager\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.taskmanager.app-debug-55 D:\kotlin\TaskManager\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.taskmanager.app-debug-56 D:\kotlin\TaskManager\app\src\debug\res
+com.example.taskmanager.app-main-57 D:\kotlin\TaskManager\app\src\main\res
